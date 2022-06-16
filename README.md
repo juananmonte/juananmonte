@@ -2,7 +2,7 @@
 
 ## My name is Juan Montenegro and I am a Data Scientist in the making. 
 
-I am currently expanding my knowledge on ***Python, R, SQL and now, looking forward for Rust*** 
+I am currently expanding my knowledge on ***Python, R, SQL and now, looking forward to become an expert on Computer Vision*** 
 
 I enjoy looking for data that I can implement for Data Analysis, Deep Learning, Computer vision and every other area that helps me get new insights.
 
