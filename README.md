@@ -13,3 +13,5 @@ You can reach me at ***juanmonte795@gmail.com*** for questions on my work or job
 ### Also, the languages I know. Gotta learn them all.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juananmonte&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+###### Note: I tend to use jupyter notebook as my IDE. That's why the big porcentege. Nonetheless, You can still see the languages I have used. They are also in my repos. 
