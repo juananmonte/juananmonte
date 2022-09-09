@@ -8,9 +8,9 @@ You can reach me at ***juanmonte795@gmail.com*** for questions on my work or job
 
 ### :office: Job Experience 
 
-#### **CHOWIS CO. LTD. - R&D Engineer intern | South Korea | 2021.11 - 2022.04|**
+#### **CHOWIS CO. LTD. -- R&D Engineer intern | South Korea | 2021.11 - 2022.04 |**
 
-#### **VESTEX-OEC - Data Analyst | Guatemala | 2017.01 - 2019.07|**
+#### **VESTEX-OEC -- Data Analyst | Guatemala | 2017.01 - 2019.07 |**
 
 ### :computer: My github stats (working on them):
 
