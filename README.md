@@ -4,7 +4,7 @@
 
 I am currently expanding my knowledge on ***C++, Computer Vision and backend development*** 
 
-You can reach me at ***juanmonte795@gmail.com*** for questions on my work or job related opprtunities. 
+You can reach me on LinkedIn(linkedin.com/in/juanmontenegro795) for questions on my work or job related opportunities. 
 
 ### :office: Job Experience 
 
