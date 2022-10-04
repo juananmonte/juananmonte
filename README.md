@@ -2,7 +2,7 @@
 
 ### My name is Juan Montenegro and I am a Data Scientist that enjoys learning what data can say and how computers see the world. 
 
-I am currently expanding my knowledge on ***C++, Computer Vision and backend development*** 
+I am currently expanding my knowledge on ***C++, Computer Vision and app development (Kotlin)*** 
 
 You can reach me on LinkedIn(linkedin.com/in/juanmontenegro795) for questions on my work or job related opportunities. 
 
