@@ -2,15 +2,15 @@
 
 ### My name is Juan Montenegro and I am a Data Scientist that enjoys learning what data can say and how computers see the world. 
 
-I am currently expanding my knowledge on ***Recommendations systems, MLOPS, LLMs, Ultralytics and Databricks*** 
+I am currently expanding my knowledge on ***Recommendations systems, MLOPS, LLMs, Ultralytics and Databricks**
 
 You can reach me on LinkedIn: (linkedin.com/in/juanmontenegro795) for questions about my work or job related opportunities. 
 
 ### :office: Job Experience 
 
-### Distelsa S.A  / McKinsey & Company  -- Data Scientist | Guatemala | 2024.06 - Current|**
+### **Distelsa S.A  / McKinsey & Company  -- Data Scientist | Guatemala | 2024.06 - Current |**
 
-### Banco Agromercantil S.A -- Data Scientist | Guatemala | 2023.01 - 2024.06 |**
+### **Banco Agromercantil S.A -- Data Scientist | Guatemala | 2023.01 - 2024.06 |**
 
 #### **CHOWIS CO. LTD. -- R&D Engineer intern | South Korea | 2021.11 - 2022.04 |**
 
