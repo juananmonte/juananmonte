@@ -4,7 +4,7 @@
 
 I am currently expanding my knowledge on ***Recommendations systems, MLOPS, LLMs, Ultralytics and Databricks**
 
-You can reach me on LinkedIn: (linkedin.com/in/juanmontenegro795) for questions about my work or job related opportunities. 
+You can reach me on LinkedIn: (linkedin.com/in/juanmontenegro795) or download my cv (both in english or spanish) if you have more questions about my work or job related opportunities. 
 
 ### :office: Job Experience 
 
