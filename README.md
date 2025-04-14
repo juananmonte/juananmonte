@@ -1,6 +1,6 @@
 # Welcome to my github! :wave:
 
-### My name is Juan Montenegro and I am a Data Scientist that enjoys learning what data can say and how computers see the world. 
+### My name is Juan Montenegro and I am a Data Scientist who enjoys learning what data can say and how computers see the world. 
 
 I am currently expanding my knowledge on **Recommendations systems, MLOPS, LLMs, Ultralytics and Databricks**
 
