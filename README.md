@@ -2,7 +2,7 @@
 
 ### My name is Juan Montenegro and I am a Data Scientist who enjoys learning what data can say and how computers see the world. 
 
-I am currently expanding my knowledge on **Recommendations systems, MLOPS, LLMs, Ultralytics and Databricks**
+I am currently expanding my knowledge on **Recommendations systems, MLOPS, Computer Vision, Kubernetes, Ultralytics and Production**
 
 You can reach me on LinkedIn: (linkedin.com/in/juanmontenegro795) or download my cv (both in english or spanish) if you have more questions about my work or job related opportunities. 
 
