@@ -22,27 +22,9 @@ If you have job related opportunities, please message me through linkedin. I wil
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/juananmonte?cardType=level-alternate&theme=github-dark&fontFamily=Adamina&preferLogin=false)](https://git.io/awesome-stats-card)
 
-<!-- Statistics: Commit series -->
-<picture>
-  <source srcset="https://raw.githubusercontent.com/juananmonte/stats/main/output/stats_commits.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
-  <img src="https://raw.githubusercontent.com/juananmonte/stats/main/output/stats_commits.svg">
-</picture>
-
 <!-- Statistics: Programming languages -->
 <picture>
   <source srcset="https://raw.githubusercontent.com/juananmonte/stats/main/output/stats_langs.svg#gh-dark-mode-only"  media="(prefers-color-scheme: dark)">
   <img src="https://raw.githubusercontent.com/juananmonte/stats/main/output/stats_langs.svg">
 </picture>
 
-<!-- Statistics: General statistics -->
-<picture>
-  <source srcset="https://raw.githubusercontent.com/juananmonte/stats/main/output/stats_general.svg#gh-dark-mode-only"  media="(prefers-color-scheme: dark)">
-  <img src="https://raw.githubusercontent.com/juananmonte/stats/main/output/stats_general.svg">
-</picture>
-
-
-<!-- Statistics: Unique repository visitors -->
-<picture>
-  <source srcset="https://raw.githubusercontent.com/juananmonte/stats/main/output/stats_visitors.svg#gh-dark-mode-only"  media="(prefers-color-scheme: dark)">
-  <img src="https://raw.githubusercontent.com/juananmonte/stats/main/output/stats_visitors.svg">
-</picture>
