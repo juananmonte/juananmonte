@@ -18,11 +18,5 @@ You can reach me on LinkedIn: (linkedin.com/in/juanmontenegro795) or download my
 
 ### :computer: My github stats (working on them):
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juananmonte&show_icons=true&theme=tokyonight&hide_border=true&show_icons=true)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/juananmonte?cardType=level-alternate&theme=github-dark&fontFamily=Adamina&preferLogin=false)](https://git.io/awesome-stats-card)
 
-### :page_facing_up: Also, the languages I know. Gotta learn them all.
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juananmonte&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-###### **Note:** 
-###### I tend to use jupyter notebook as my IDE. That's why the big percentege. Nonetheless, You can still see the languages I have used. They are also in my repos :)
