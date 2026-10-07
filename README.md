@@ -2,7 +2,7 @@
 
 ### My name is Juan Montenegro and I am a Data Scientist who enjoys learning what data can say and how computers see the world. 
 
-I am currently expanding my knowledge on **Recommendations systems, MLOPS, Computer Vision, Kubernetes, Ultralytics and Production**
+I am currently expanding my knowledge on **Monetary policy, Dynamic Bayesian models, causal inference, Computer Vision, Ultralytics and Helm for Kubernetes**
 
 You can reach me on LinkedIn: [linkedin.com/in/juanmontenegro795](linkedin.com/in/juanmontenegro795) or download my cv (english or spanish) in the " about_me" repo if you have more questions about my work.
 
@@ -10,7 +10,9 @@ If you have job related opportunities, please message me through linkedin. I wil
 
 ### :office: Job Experience 
 
-### **Distelsa S.A  / McKinsey & Company  -- Data Scientist | Guatemala | 2024.06 - Current |**
+### **Banco de Guatemala / Guatemala's Central Bank -- Analyst | Guatemala | 2024.06 - 2026.03 | **
+
+### **Distelsa S.A  -- Data Scientist | Guatemala | 2024.06 - 2026.03 |**
 
 ### **Banco Agromercantil S.A -- Data Scientist | Guatemala | 2023.01 - 2024.06 |**
 
