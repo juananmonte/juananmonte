@@ -10,7 +10,7 @@ If you have job related opportunities, please message me through linkedin. I wil
 
 ### :office: Job Experience 
 
-### **Banco de Guatemala / Guatemala's Central Bank -- Analyst | Guatemala | 2024.06 - 2026.03 | **
+### **Banco de Guatemala / Guatemala's Central Bank -- Analyst | Guatemala | 2024.06 - 2026.03 |**
 
 ### **Distelsa S.A  -- Data Scientist | Guatemala | 2024.06 - 2026.03 |**
 
